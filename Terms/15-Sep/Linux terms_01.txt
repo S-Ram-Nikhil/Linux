@@ -1,0 +1,24 @@
+Linux introductory terms- 
+it is multi access system. more than one person can use the same OS at same time.
+
+Case Sensitive:
+linux is case sensitive, unlike windows.
+linux common error is "file or directory not found"
+
+Binaries:- it refers files that can be executed
+           /usr/bin, /usr/sbin
+
+Directory:- it provides a way to organize files and this is same as a folder in windows. 
+
+Home:- each user has their home/own directory. for 4 users- 4 home directories(the one user files don't have access to other user files.
+ they are completely isolated. 
+this is the place where files we created will be saved by default.
+
+root:- linux has root user(super user) who can control entire OS.like every OS has a admin user. 
+root user will create user account, system, configure, password change. 
+
+script :- series of commands will run in an intrepetive environment that converts each line to source code and execute.
+ most of the hacking tools are script basesd. 
+
+shell :- it is an environment and intrepreter for running commmands. 
+
