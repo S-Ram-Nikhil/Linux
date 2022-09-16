@@ -1,0 +1,22 @@
+Linux File System:
+
+In Linux everything is a file.
+
+linux doesn't have a physical drive (c)like in windows.
+linux has a logical file system
+
+it is like a tree structure which is upside down. 
+
+/ - root
+/boot - kernal image /boot load files
+/root - super user's home directory
+/home - user home directory
+/etc - systm configuration files (that controls how program start up)
+linux - Apache web server 
+AWS config - start, firewall, load balancer 
+/mnt - usb , hdd external memory drives
+/bin - binaries : 
+/sbin - system binaries
+/proc - running processes information
+/opt - optional software folder 
+/lib - libraries (DLL)
